@@ -1,0 +1,3 @@
+---,Name,Object,Icon,Type
+NewRow,"NSLOCTEXT(""[E5EAB68D437A10FC4FABA389F382C4E6]"", ""D374A653468344AC083D329128945E83"", ""Sword"")","BlueprintGeneratedClass'/Game/Grimrock/Blueprint/BP_Sword.BP_Sword_C'","None","Weapon"
+NewRow_0,"NSLOCTEXT(""[E5EAB68D437A10FC4FABA389F382C4E6]"", ""6564457D43C190AB510F31BA71500884"", ""Shield"")","BlueprintGeneratedClass'/Game/Grimrock/Blueprint/BP_Shield.BP_Shield_C'","None","Shield"
